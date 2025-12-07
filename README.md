@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/y1027940727-gif/rna-structure-qc-classifier/blob/main/rna_structure_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/y1027940727-gif/rna-structure-qc-classifier/blob/main/rna-structure-qc-classifier.ipynb)
+
 
 
 # RNA Structural-Type QC Classifier
